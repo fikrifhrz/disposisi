@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../application"
+		},
+		{
+			"path": "../assets"
+		},
+		{
+			"path": "../startbootstrap-sb-admin-gh-pages"
+		},
+		{
+			"path": "../system"
+		},
+		{
+			"path": "../user_guide"
+		}
+	]
+}
